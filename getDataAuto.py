@@ -1,6 +1,5 @@
 """
 Created on Tue Jul 17 09:11:57 2018
-@author: Shantanu
 """
 
 #%%
